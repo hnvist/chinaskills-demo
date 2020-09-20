@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">chinaskills</string>
+    <string name="singin_name">用户登陆</string>
+    <string name="login_name">用户注册</string>
+    <string name="network_site_name">网络设置</string>
+
+    <string name="singin_hint_account">请输入账号</string>
+    <string name="singin_hint_password">请输入密码</string>
+
+</resources>
